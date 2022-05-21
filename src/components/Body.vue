@@ -17,7 +17,9 @@
   </div>
   <div class="mt-12">
     <div>
-      <p class="md:text-5xl">Uchkun Rakhimov</p>
+      <p class="sm:text-3xl text-2xl ml-1 md:text-5xl xl:text-5xl 2xl:text-5xl">
+        Uchkun Rakhimov
+      </p>
       <p class="pl-1 md:text-lg">
         Frontend Developer (Vuejs • Nuxtjs • Reactjs)
       </p>
@@ -29,7 +31,9 @@
     <div class="mt-12">
       <p
         class="
-          md:md:text-3xl
+          md:text-3xl
+          sm:text-2xl
+          text-2xl
           underline underline-offset-8
           mb-3
           decoration-teal-900
@@ -81,11 +85,18 @@
   <!-- Bio -->
   <div class="mt-4">
     <p
-      class="md:text-3xl underline underline-offset-8 decoration-teal-900 mb-3"
+      class="
+        md:text-3xl
+        sm:text-2xl
+        text-2xl
+        underline underline-offset-8
+        decoration-teal-900
+        mb-3
+      "
     >
       Bio
     </p>
-    <div class="mt-3 text-xl">
+    <div class="mt-3 md:text-xl">
       <div>
         <span class="font-bold mr-3">2002</span>
         Borin in (Kashkadarya) Karshi.
@@ -109,6 +120,8 @@
         flex
         items-center
         md:text-3xl
+        sm:text-2xl
+        text-2xl
         underline underline-offset-8
         decoration-teal-900
         mb-3
@@ -116,7 +129,7 @@
     >
       I liked it
     </p>
-    <div class="text-xl mt-3">
+    <div class="md:text-xl mt-3">
       <p>&nbsp;&nbsp;&nbsp; Music, Movies, Codeing, Art</p>
     </div>
   </div>
@@ -128,6 +141,8 @@
         flex
         items-center
         md:text-3xl
+        sm:text-2xl
+        text-2xl
         underline underline-offset-8
         mb-3
         decoration-teal-900
@@ -135,7 +150,7 @@
     >
       My links
     </p>
-    <div class="ml-5 text-xl mt-4">
+    <div class="md:ml-2 sm:ml-2 ml-2 md:text-xl mt-4">
       <a
         class="hover:underline hover:underline-offset-4 flex items-center"
         href="https://github.com/uchkunrakhimov"
