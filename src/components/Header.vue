@@ -22,7 +22,7 @@
       <div>
         <router-link class="px-3.5 hover:underline hover:underline-offset-4" to="/works">Works</router-link>
         <router-link class="pr-3.5 hover:underline hover:underline-offset-4" to="/contact">Contact Us</router-link>
-        <a class="hover:underline hover:underline-offset-4" href="https://github.com/uchkunrakhimov">Source</a>
+        <a class="hover:underline hover:underline-offset-4" href="https://github.com/uchkunrakhimov/pathelion-homepage">Source</a>
       </div>
     </div>
   </nav>
