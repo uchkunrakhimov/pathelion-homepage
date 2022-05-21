@@ -27,7 +27,8 @@
           <h5
             class="
               mb-2
-              text-2xl
+              sm:text-xl
+              md:text-2xl
               font-bold
               tracking-tight
               text-white
@@ -101,7 +102,8 @@
           <h5
             class="
               mb-2
-              text-2xl
+              sm:text-xl
+              md:text-2xl
               font-bold
               tracking-tight
               text-white
@@ -115,7 +117,7 @@
           Here: Vuejs(2), SCSS, CSS, Swiperjs, Bootstrap
         </p>
         <a
-          href="https://market.dgtl.uz/"
+          href="https://light.pro-service.uz/"
           class="
             inline-flex
             items-center
@@ -174,7 +176,8 @@
           <h5
             class="
               mb-2
-              text-2xl
+              sm:text-xl
+              md:text-2xl
               font-bold
               tracking-tight
               text-white
@@ -249,7 +252,8 @@
           <h5
             class="
               mb-2
-              text-2xl
+              sm:text-xl
+              md:text-2xl
               font-bold
               tracking-tight
               text-white
@@ -323,7 +327,8 @@
           <h5
             class="
               mb-2
-              text-2xl
+              sm:text-xl
+              md:text-2xl
               font-bold
               tracking-tight
               text-white
@@ -396,7 +401,8 @@
           <h5
             class="
               mb-2
-              text-2xl
+              sm:text-xl
+              md:text-2xl
               font-bold
               tracking-tight
               text-white
