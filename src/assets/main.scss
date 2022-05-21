@@ -1,0 +1,31 @@
+// TailwindCSS
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700&display=swap');
+
+html,
+body {
+  background: #202023;
+  color: #fff;
+}
+
+.container-lg {
+  max-width: 1024px;
+}
+
+.bg-hh {
+  background: #202023;
+}
+
+.h-card {
+  width: 318px;
+  height: 157px;
+}
+
+.font-m1 {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
