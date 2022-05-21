@@ -5,7 +5,8 @@
         w-80
         mr-4
         mb-4
-        hover:scale-105
+        2xl:hover:scale-105
+        xl:hover:scale-105
         duration-300
         max-w-sm
         bg-gray-800
@@ -154,7 +155,8 @@
       class="
         w-80
         mb-4
-        hover:scale-105
+        2xl:hover:scale-105
+        xl:hover:scale-105
         duration-300
         max-w-sm
         bg-gray-800
@@ -453,8 +455,7 @@
 </template>
 
 <script>
-export default {
-};
+export default {};
 </script>
 
 <style>
