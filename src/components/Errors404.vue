@@ -76,11 +76,11 @@ export default {};
   animation-delay: -2s;
 }
 .will3 {
-  stroke: red;
+  stroke: aquamarine;
   animation-delay: -3s;
 }
 .will4 {
-  stroke: yellow;
+  stroke: darkcyan;
   animation-delay: -4s;
 }
 .will5 {
