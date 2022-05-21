@@ -22,6 +22,14 @@ body {
   background: #202023;
 }
 
+.bg-chakra {
+  width: 100%;
+  background: #20202380;
+  z-index: 1;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
 .h-card {
   width: 318px;
   height: 157px;
@@ -29,4 +37,11 @@ body {
 
 .font-m1 {
   font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+
+@media (max-width: 312px) {
+  .w-312 {
+    display: none;
+  }
 }

@@ -1,5 +1,5 @@
 <template>
-  <nav class="nav">
+  <nav class="nav sticky top-0 bg-chakra">
     <div
       class="
         nav__menu
@@ -19,7 +19,7 @@
           :alt="notFound"
         />
       </router-link>
-      <div>
+      <div class="w-312">
         <router-link class="px-3.5 hover:underline hover:underline-offset-4" to="/works">Works</router-link>
         <router-link class="pr-3.5 hover:underline hover:underline-offset-4" to="/contact">Contact Us</router-link>
         <a class="hover:underline hover:underline-offset-4" href="https://github.com/uchkunrakhimov/pathelion-homepage">Source</a>

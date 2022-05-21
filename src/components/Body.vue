@@ -3,10 +3,10 @@
     class="
       bg-zinc-700
       mt-8
-      xl:2-2/4
-      2xl:2-2/4
-      sm:w-3/4
-      md:w-6/12
+      2xl:w-2/4
+      xl:w-2/4
+      lg:w-2/4
+      md:w-3/4
       text-center
       mx-auto
       p-3
