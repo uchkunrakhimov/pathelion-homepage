@@ -2,6 +2,7 @@ import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import WorksView from '../views/WorksView.vue'
 import ContactView from '../views/ContactView.vue'
+import Errors404 from '../components/Errors404.vue'
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -18,6 +19,14 @@ const routes: Array<RouteRecordRaw> = [
     path: '/contact',
     name: 'contact',
     component: ContactView
+  },
+  {
+    path: "/:catchAll(.*)",
+    name: "errors404",
+    meta: {
+      requiresAuth: false
+    },
+    component: Errors404
   }
 ]
 

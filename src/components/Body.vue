@@ -17,7 +17,7 @@
   </div>
   <div class="mt-12">
     <div>
-      <p class="sm:text-3xl text-2xl ml-1 md:text-5xl xl:text-5xl 2xl:text-5xl">
+      <p class="sm:text-3xl text-2xl md:text-5xl xl:text-5xl 2xl:text-5xl">
         Uchkun Rakhimov
       </p>
       <p class="pl-1 md:text-lg">
