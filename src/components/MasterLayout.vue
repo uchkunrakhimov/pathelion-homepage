@@ -56,7 +56,7 @@
           items-center
           py-2
           px-3
-          md:text-xl
+          text-base
           font-medium
           text-center text-white
           bg-cyan-900

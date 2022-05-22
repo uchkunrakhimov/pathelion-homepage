@@ -5,8 +5,6 @@
 
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700&display=swap');
-
 html,
 body {
   background: #202023;
@@ -32,10 +30,6 @@ body {
 
 .h-card {
   height: 120px;
-}
-
-.font-m1 {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 @media (max-width: 767px) {

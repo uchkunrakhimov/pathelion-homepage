@@ -1,5 +1,5 @@
 <template>
-  <nav class="nav sticky top-0 bg-chakra sm:z-0">
+  <nav class="sticky top-0 bg-chakra sm:z-0 container-lg pt-1 mx-auto pl-2 pr-2">
     <div
       class="
         nav__menu
@@ -15,7 +15,7 @@
       <router-link to="/">
         <img
           class="
-            w-16
+            w-14
             rounded-full
             duration-500
             hover:rotate-0
