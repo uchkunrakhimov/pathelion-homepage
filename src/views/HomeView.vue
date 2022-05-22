@@ -1,13 +1,13 @@
 <template>
-  <Body />
+  <MasterLayout />
 </template>
 
 <script lang="ts">
-import Body from '@/components/Body.vue'
+import MasterLayout from '@/components/MasterLayout.vue'
 import { Options, Vue } from 'vue-class-component';
 @Options({
   components: {
-    Body
+    MasterLayout
   },
 })
 export default class HomeView extends Vue {}
